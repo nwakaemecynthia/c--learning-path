@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5nPM1hFJl8=",
+  "dgSpecHash": "SrJYu9kfAMk=",
   "success": true,
-  "projectFilePath": "/Users/cynthianwakaeme/Public/Learning/c#/Blogs/Blogs.csproj",
+  "projectFilePath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Blogs/Blogs.csproj",
   "expectedPackageFiles": [
     "/Users/cynthianwakaeme/.nuget/packages/microsoft.aspnetcore.openapi/8.0.10/microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
     "/Users/cynthianwakaeme/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

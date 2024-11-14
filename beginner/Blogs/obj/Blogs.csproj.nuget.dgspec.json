@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cynthianwakaeme/Public/Learning/c#/Blogs/Blogs.csproj": {}
+    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Blogs/Blogs.csproj": {}
   },
   "projects": {
-    "/Users/cynthianwakaeme/Public/Learning/c#/Blogs/Blogs.csproj": {
+    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Blogs/Blogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/Blogs/Blogs.csproj",
+        "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Blogs/Blogs.csproj",
         "projectName": "Blogs",
-        "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/Blogs/Blogs.csproj",
+        "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Blogs/Blogs.csproj",
         "packagesPath": "/Users/cynthianwakaeme/.nuget/packages/",
-        "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/Blogs/obj/",
+        "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Blogs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cynthianwakaeme/.nuget/NuGet/NuGet.Config"

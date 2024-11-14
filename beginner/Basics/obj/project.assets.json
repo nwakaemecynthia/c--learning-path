@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/Basics/Basics.csproj",
+      "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics/Basics.csproj",
       "projectName": "Basics",
-      "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/Basics/Basics.csproj",
+      "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics/Basics.csproj",
       "packagesPath": "/Users/cynthianwakaeme/.nuget/packages/",
-      "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/",
+      "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cynthianwakaeme/.nuget/NuGet/NuGet.Config"

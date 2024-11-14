@@ -5,7 +5,7 @@
         private static void Main(string[] args)
         {
             /**************************************************************************************************************
-                                     **********CONDITIONALS**********
+                                     **********CONDITIONAL STATEMENTS**********
             **************************************************************************************************************/
             /****************************************************************************
                 **IF STATEMENT**
@@ -32,7 +32,7 @@
             /****************************************************************************
                 **SWITCH-CASE STATEMENT**
             ****************************************************************************/
-            var currentSeason = Season.Autumn;
+            var currentSeason = Season.Spring;
 
             switch (currentSeason)
             {
@@ -40,7 +40,8 @@
                     System.Console.WriteLine("It's autumn and a beautiful season");
                     break;
                 case Season.Summer:
-                    System.Console.WriteLine("It's summer and a perfect time to go to the beach");
+                case Season.Spring:
+                    System.Console.WriteLine("It's a perfect time to go to the beach");
                     break;
                 default:
                     System.Console.WriteLine("I don't understad the season");
@@ -54,8 +55,16 @@
             float price = (isGoldCustomer) ? 19.95f : 29.95f;
             System.Console.WriteLine(price);
 
+            /*EXERCISE*/
+            ConditionalTest testOne = new ConditionalTest();
+            testOne.IsValidNumber();
+            testOne.IsValidNumber();
+            testOne.MaxNumber();
+            testOne.ImageOrentation();
+            testOne.SpeedCamera();
+
             /**************************************************************************************************************
-                                        **********LOOPS**********
+                                        **********ITERATION STATEMENTS**********
             **************************************************************************************************************/
             /****************************************************************************
                 **FOR LOOPS**
@@ -65,7 +74,10 @@
                 **FOR-EACH LOOPS**
             ****************************************************************************/
             /****************************************************************************
-                88WHILE LOOPS**
+                **WHILE LOOPS**
+            ****************************************************************************/
+            /****************************************************************************
+                **DO-WHILE LOOPS**
             ****************************************************************************/
         }
     }

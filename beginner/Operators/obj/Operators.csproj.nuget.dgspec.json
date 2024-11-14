@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cynthianwakaeme/Public/Learning/c#/Operators/Operators.csproj": {}
+    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Operators/Operators.csproj": {}
   },
   "projects": {
-    "/Users/cynthianwakaeme/Public/Learning/c#/Operators/Operators.csproj": {
+    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Operators/Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/Operators/Operators.csproj",
+        "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Operators/Operators.csproj",
         "projectName": "Operators",
-        "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/Operators/Operators.csproj",
+        "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Operators/Operators.csproj",
         "packagesPath": "/Users/cynthianwakaeme/.nuget/packages/",
-        "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/Operators/obj/",
+        "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Operators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cynthianwakaeme/.nuget/NuGet/NuGet.Config"
