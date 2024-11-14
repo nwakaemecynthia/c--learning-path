@@ -1,0 +1,14 @@
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/bin/Debug/net8.0/Basics
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/bin/Debug/net8.0/Basics.deps.json
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/bin/Debug/net8.0/Basics.runtimeconfig.json
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/bin/Debug/net8.0/Basics.dll
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/bin/Debug/net8.0/Basics.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/Basics.AssemblyInfoInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/Basics.AssemblyInfo.cs
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/Basics.csproj.CoreCompileInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/Basics.dll
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/refint/Basics.dll
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/Basics.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/Basics.genruntimeconfig.cache
+/Users/cynthianwakaeme/Public/Learning/c#/Basics/obj/Debug/net8.0/ref/Basics.dll
