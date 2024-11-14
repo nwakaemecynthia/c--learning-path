@@ -1,0 +1,15 @@
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.AssemblyInfoInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.AssemblyInfo.cs
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.csproj.CoreCompileInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.sourcelink.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/bin/Debug/net8.0/ControlFlow
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/bin/Debug/net8.0/ControlFlow.deps.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/bin/Debug/net8.0/ControlFlow.runtimeconfig.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/bin/Debug/net8.0/ControlFlow.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/bin/Debug/net8.0/ControlFlow.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/refint/ControlFlow.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ControlFlow.genruntimeconfig.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/Debug/net8.0/ref/ControlFlow.dll

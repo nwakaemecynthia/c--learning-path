@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics2/Basics2.csproj": {}
+    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/ControlFlow.csproj": {}
   },
   "projects": {
-    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics2/Basics2.csproj": {
+    "/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/ControlFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics2/Basics2.csproj",
-        "projectName": "Basics2",
-        "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics2/Basics2.csproj",
+        "projectUniqueName": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/ControlFlow.csproj",
+        "projectName": "ControlFlow",
+        "projectPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/ControlFlow.csproj",
         "packagesPath": "/Users/cynthianwakaeme/.nuget/packages/",
-        "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/Basics2/obj/",
+        "outputPath": "/Users/cynthianwakaeme/Public/Learning/c#/beginner/ControlFlow/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cynthianwakaeme/.nuget/NuGet/NuGet.Config"
