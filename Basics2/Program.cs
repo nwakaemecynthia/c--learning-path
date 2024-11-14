@@ -62,7 +62,7 @@ namespace Basics2 // Use the same namespace as Person.cs and Calculator.cs
             // Calculator calc = new Calculator();
             // Console.WriteLine("Sum: " + calc.Add(5, 3));
             int result = Calculator.Add(28);
-            int result = Calculator.Add(28, 10);
+            int result2 = Calculator.Add(28, 10);
             System.Console.WriteLine(result);
 
             //EXAMPLE 3
@@ -72,6 +72,53 @@ namespace Basics2 // Use the same namespace as Person.cs and Calculator.cs
             car.Color = "Red";
 
             Console.WriteLine(car.Color);
+
+            //ARRAYS
+            /*
+                Definition; An array is a data structure to store a collection of variables of the same type.
+            */
+            //instead of this
+
+
+            //Do this (Go to your note to read up on this)
+            int[] numbers = new int[3];
+
+            numbers[0] = 2;
+            numbers[1] = 3;
+            numbers[2] = 5;
+
+            Console.WriteLine(numbers);
+            // Optional: Print array elements to verify
+            foreach (int number in numbers)
+            {
+                Console.WriteLine(number);
+            }
+
+            //or 
+
+            int[] numberz = new int[3] { 1, 2, 3 };
+            Console.WriteLine(numberz[1]);
+
+            //THE ABOVE ARRAY IS SUMMERIZED IN THE CLASS ARRAYS, BY DYNAMICALLY CREATING AN ARRAY WHEN SIZE AND THE ARRAY IS GIVEN 
+            var array = new Arrays();
+            array.CreateArray(5, new int[] { 1, 2, 3 });
+
+            //EXAMPLE 2
+            var names = new string[6] { "Tina", "Cynthia", "Jennifer", "Juliet", "Vera", "Stella" };
+            foreach (var name in names)
+            {
+                Console.WriteLine(name);
+            }
+
+            for (int i = names.Length - 1; i >= 0 ; i--)
+            {
+                Console.WriteLine((i + 1) + " : " + names[i]);
+            }
+
+            for (int index = 0; index < names.Length; index++)
+            {
+                Console.WriteLine((index + 1) + " => " + names[index]);
+            }
         }
     }
 }

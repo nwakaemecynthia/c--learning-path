@@ -12,3 +12,4 @@
 /Users/cynthianwakaeme/Public/Learning/c#/Basics2/obj/Debug/net8.0/Basics2.pdb
 /Users/cynthianwakaeme/Public/Learning/c#/Basics2/obj/Debug/net8.0/Basics2.genruntimeconfig.cache
 /Users/cynthianwakaeme/Public/Learning/c#/Basics2/obj/Debug/net8.0/ref/Basics2.dll
+/Users/cynthianwakaeme/Public/Learning/c#/Basics2/obj/Debug/net8.0/Basics2.sourcelink.json
