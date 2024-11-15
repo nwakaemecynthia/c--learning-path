@@ -4,6 +4,8 @@
     {
         private static void Main(string[] args)
         {
+            var random = new Randoms();
+            random.RandomData();
             /**************************************************************************************************************
                                      **********CONDITIONAL STATEMENTS**********
             **************************************************************************************************************/
@@ -158,12 +160,11 @@
             } while (num < 10);
 
             /*EXERCISE*/
-            var iterator = new IterationTest();
-            // iterator.IsDivisibleByThree();
-            // iterator.randomUserInput();
-            iterator.numberFactorial();
-            // iterator.ImageOrentation();
-            // iterator.SpeedCamera();
+            IterationTest.IsDivisibleByThree();
+            IterationTest.RandomUserInput();
+            IterationTest.Factorial();
+            IterationTest.NumberGuess();
+            IterationTest.MaxNumber();
 
 
 
@@ -172,35 +173,6 @@
                 break: Jumps out of a loop.
                 continue: Jumps to the next iteration.
             */
-
-            /**************************************************************************************************************
-                                               **********RANDOM CLASS**********
-            **************************************************************************************************************/
-
-            // var random = new Random();
-            // for (int i = 0; i < 10; i++)
-            // {
-            //     System.Console.WriteLine(random.Next());
-            //     System.Console.WriteLine(random.Next(1, 10));
-            // }
-
-            // //GENERATE RANDOM PASSWORD
-            // const int passwordLength = 10;
-            // for (int i = 0; i < passwordLength; i++)
-            // {
-            //     System.Console.Write((char)random.Next(97, 122));
-            // }
-            // System.Console.WriteLine();
-
-            // //IMPROVE THE PASSWORD GENERATOR same as the first password generator
-            // var buffer =  new char[passwordLength];
-            // for (int i = 0; i < passwordLength; i++)
-            // {
-            //     buffer[i] = ((char)('a' + random.Next(0, 26)));
-            // }
-
-            // var password = new string(buffer);
-            // System.Console.WriteLine("NEW PASSWORD IS: {0}", password);
         }
     }
 }
