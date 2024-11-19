@@ -59,7 +59,7 @@ namespace BasicsProgram
 
             //2) EXPLICIT TYPE CONVERSION: This is prone to data loss especially if the data is not well within the range of its datatype
             int e = 25;
-            byte y = e;
+            // byte y = e;
 
             //the above has an error on e so to correct this error, you will need to CAST or perform an EXPLICIT TYPE CONVERSION on e
             byte z = (byte)e;
@@ -70,7 +70,7 @@ namespace BasicsProgram
 
             //3) NON COMPARTIBLE TYPE CONVERSION
             string s = "1";
-            int c = (int)s; //WON'T COMPLIE
+            // int c = (int)s; //WON'T COMPLIE
 
             //to convert the above we will use, CONVERT CLASS or PARSE METHOD to convert the classes
             string str = "1";
