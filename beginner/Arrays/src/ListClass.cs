@@ -35,6 +35,10 @@ namespace Arrays
             list3.Add(15);
             list3.AddRange(list2);
             list3.AddRange(new int[2] {16, 17});
+            foreach (var item in list3)
+            {
+                System.Console.WriteLine(item);
+            }
 
             System.Console.WriteLine("Index of 15: " + list3.IndexOf(15));
             System.Console.WriteLine("Last index of 2: " + list3.LastIndexOf(2));
@@ -44,6 +48,17 @@ namespace Arrays
             {
                 System.Console.WriteLine(item);
             }
+            foreach (var number in list3)
+            {
+                if(number == 1) list3.Remove(number); // This will crash the application as it is not allowed TO MODIFY A COLLECTION SIDE A FOREACH LOOP
+            }
+            //YOU CAB HOWEVER MODIFY A COLLECTION INSIDE A FOR LOOP
+            for (int i = 0; i < list3.Length; i++)
+            {
+                if (list3[i] == 1) list3.Remove(list3[i]);
+            }
+
+            list3.Clear(); //THIS METHOD REVES ALL ELEMENTS FROM THE LIST
         }
     }
 }

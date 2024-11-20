@@ -33,14 +33,19 @@ namespace ControlFlow
             3- Write a program and ask the user to enter the width and height of an image. 
             Then tell if the image is landscape or portrait.
          ****************************************************************************/
+        public enum ImageOrientation
+        {
+            Landscape,
+            Portrait
+        }
         public void ImageOrentation()
         {
             Console.Write("Enter width of image: ");
             int width = int.Parse(Console.ReadLine());
             Console.Write("Enter height of image: ");
             int height = int.Parse(Console.ReadLine());
-            string result = (width > height) ? "Landscape" : "Portrait";
-            System.Console.WriteLine(result);
+            var orientation = (width > height) ? ImageOrientation.Landscape : ImageOrientation.Portrait;
+            System.Console.WriteLine(orientation);
         }
 
         /****************************************************************************
@@ -54,42 +59,59 @@ namespace ControlFlow
          ****************************************************************************/
         public void SpeedCamera()
         {
-            // Ask user to enter the speed limit
-            Console.Write("Enter the speed limit: ");
+            // // Ask user to enter the speed limit
+            // Console.Write("Enter the speed limit: ");
 
-            string? speedLimitInput = Console.ReadLine();
-            if (!int.TryParse(speedLimitInput, out int speedLimit))
-            {
-                Console.WriteLine("Invalid speed limit input.");
-                return;
-            }
+            // string? speedLimitInput = Console.ReadLine();
+            // if (!int.TryParse(speedLimitInput, out int speedLimit))
+            // {
+            //     Console.WriteLine("Invalid speed limit input.");
+            //     return;
+            // }
 
-            // Ask user to enter the car's speed
-            Console.Write("Enter the speed of the car: ");
+            // // Ask user to enter the car's speed
+            // Console.Write("Enter the speed of the car: ");
 
-            string? carSpeedInput = Console.ReadLine();
-            if (!int.TryParse(carSpeedInput, out int carSpeed))
-            {
-                Console.WriteLine("Invalid car speed input.");
-                return;
-            }
+            // string? carSpeedInput = Console.ReadLine();
+            // if (!int.TryParse(carSpeedInput, out int carSpeed))
+            // {
+            //     Console.WriteLine("Invalid car speed input.");
+            //     return;
+            // }
 
-            if (carSpeed <= speedLimit)
-            {
+            // if (carSpeed <= speedLimit)
+            // {
+            //     Console.WriteLine("Ok");
+            // }
+            // else
+            // {
+            //     // Calculate demerit points
+            //     int demeritPoints = (carSpeed - speedLimit) / 5;
+
+            //     Console.WriteLine("Demerit Points: " + demeritPoints);
+
+            //     // Check if demerit points exceed 12
+            //     if (demeritPoints > 12)
+            //     {
+            //         Console.WriteLine("License Suspended");
+            //     }
+            // }
+            Console.Write("What is the speed limit? ");
+            var speedLimit = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("What is the speed of this car? ");
+            var carSpeed = Convert.ToInt32(Console.ReadLine());
+
+            if (carSpeed < speedLimit)
                 Console.WriteLine("Ok");
-            }
             else
             {
-                // Calculate demerit points
-                int demeritPoints = (carSpeed - speedLimit) / 5;
-
-                Console.WriteLine("Demerit Points: " + demeritPoints);
-
-                // Check if demerit points exceed 12
+                const int kmPerDemeritPoint = 5;
+                var demeritPoints = (carSpeed - speedLimit) / kmPerDemeritPoint;
                 if (demeritPoints > 12)
-                {
                     Console.WriteLine("License Suspended");
-                }
+                else
+                    Console.WriteLine("Demerit points: " + demeritPoints);
             }
         }
     }

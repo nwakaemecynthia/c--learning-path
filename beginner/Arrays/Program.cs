@@ -5,7 +5,13 @@
         private static void Main(string[] args)
         {
             //ArrayClass.Learning();
-            ListClass.Learning();
+            // ListClass.Learning();
+
+            Test.SocialsNotification();
+            Test.UsersNameDisplay();
+            Test.NumGuessNSort();
+            Test.UniqueNumbers();
+            Test.NumbersGuess();
         }
     }
 }

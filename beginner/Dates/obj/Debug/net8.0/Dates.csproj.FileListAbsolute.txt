@@ -1,0 +1,15 @@
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.AssemblyInfoInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.AssemblyInfo.cs
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.csproj.CoreCompileInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.sourcelink.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/bin/Debug/net8.0/Dates
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/bin/Debug/net8.0/Dates.deps.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/bin/Debug/net8.0/Dates.runtimeconfig.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/bin/Debug/net8.0/Dates.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/bin/Debug/net8.0/Dates.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/refint/Dates.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/Dates.genruntimeconfig.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Dates/obj/Debug/net8.0/ref/Dates.dll
