@@ -1,0 +1,15 @@
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/bin/Debug/net8.0/Files
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/bin/Debug/net8.0/Files.deps.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/bin/Debug/net8.0/Files.runtimeconfig.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/bin/Debug/net8.0/Files.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/bin/Debug/net8.0/Files.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.AssemblyInfoInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.AssemblyInfo.cs
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.csproj.CoreCompileInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.sourcelink.json
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/refint/Files.dll
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/Files.genruntimeconfig.cache
+/Users/cynthianwakaeme/Public/Learning/c#/beginner/Files/obj/Debug/net8.0/ref/Files.dll
