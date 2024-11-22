@@ -4,22 +4,23 @@
     {
         private static void Main(string[] args)
         {
-            /*********************************************************************************
-                 ************** WHAT IS A CLASSE
-                    This is a building block of an application.
-                 ************** ANATOMY OF A CLASS
-                    1) Data: (repersented by feilds or properties of a class)
-                    1) Behaviour: (repersented by methods/functions of a class)
-                 ************** WHAT IS AN OBJECT
-                    An object is an instance of a class that resides in memory.
-                 ************** STATIC MEMBERS  
+            //  var person = new Person { FirstName = "Cynthia", LastName = "Nwakaeme", Age = 31};
+            // OR
+            // Person person = new Person;
 
-            *********************************************************************************/
-            //Declaring a class
-            public class Person
-            {
-                
-            }
+            // var person = new Person();
+            // person.FirstName = "Cynthia";
+            // person.LastName = "Nwakaeme";
+            // person.Age = 51;
+
+            var person = new Person { FirstName = "Cynthia", LastName = "Nwakaeme", Age = 31 };
+
+            person.IntroduceMe();
+            person.IntroduceMe("Ginika");
+
+            var newCommer = person.Parse("Berry Blings", 27);
+            newCommer.IntroduceMe("Team Chevron");
+
         }
     }
 }
