@@ -4,8 +4,11 @@
     {
         private static void Main(string[] args)
         {
-          var person = new PersonMain(new DateTime(1993, 10, 25));
-          System.Console.WriteLine("My age is: " + person.Age);
+            var cookie = new HttpCookie();
+            cookie["ACCESS_TOKEN"] = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
+            cookie["USERTYPE"] = "ADMIN";
+            System.Console.WriteLine("The saved TOKEN " + cookie["ACCESS_TOKEN"]);
+            System.Console.WriteLine("Your account access type is: " + cookie["USERTYPE"]);
         }
 
         //COPY AND PASTE CODE SNIPPET TO UNDERSTAND LEARNING PATH
@@ -129,6 +132,11 @@
             var person = new PersonEncap();
             person.SetBirthDate(new DateTime(1993, 10, 25));
             System.Console.WriteLine(person.GetBirthDate());
+        }
+
+        static void UseCorrectEncapsulation(){
+            var person = new PersonMain(new DateTime(1993, 10, 25));
+            System.Console.WriteLine("My age is: " + person.Age);
         }
     }
 }
