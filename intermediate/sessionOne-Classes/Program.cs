@@ -4,12 +4,8 @@
     {
         private static void Main(string[] args)
         {
-            var customer = new Customer2(2);
-            customer.Orders.Add(new Order2());
-            customer.Orders.Add(new Order2());
-
-            customer.Promote();
-            System.Console.WriteLine(customer.Orders.Count);
+          var person = new PersonMain(new DateTime(1993, 10, 25));
+          System.Console.WriteLine("My age is: " + person.Age);
         }
 
         //COPY AND PASTE CODE SNIPPET TO UNDERSTAND LEARNING PATH
@@ -35,7 +31,7 @@
             var newCommer = person.Parse("Berry Blings", 27);
             newCommer.IntroduceMe("Team Chevron");
         }
-        
+
         static void UseObjInitilizer()
         {
 
@@ -96,7 +92,7 @@
             System.Console.WriteLine(result);
             System.Console.WriteLine(result2);
         }
-        
+
         static void UsePoints()
         {
             try
@@ -117,6 +113,22 @@
             {
                 System.Console.WriteLine("An unexpected error occured.");
             }
+        }
+
+        static void UseClassAnatomy()
+        {
+            var customer = new Customer2(2);
+            customer.Orders.Add(new Order2());
+            customer.Orders.Add(new Order2());
+
+            customer.Promote();
+            System.Console.WriteLine(customer.Orders.Count);
+        }
+    
+        static void UseEncapsulation(){
+            var person = new PersonEncap();
+            person.SetBirthDate(new DateTime(1993, 10, 25));
+            System.Console.WriteLine(person.GetBirthDate());
         }
     }
 }

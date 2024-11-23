@@ -1,0 +1,15 @@
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/bin/Debug/net9.0/sessionOne-Classes
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/bin/Debug/net9.0/sessionOne-Classes.deps.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/bin/Debug/net9.0/sessionOne-Classes.runtimeconfig.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/bin/Debug/net9.0/sessionOne-Classes.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/bin/Debug/net9.0/sessionOne-Classes.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.AssemblyInfoInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.AssemblyInfo.cs
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.csproj.CoreCompileInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.sourcelink.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/refint/sessionOne-Classes.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/sessionOne-Classes.genruntimeconfig.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionOne-Classes/obj/Debug/net9.0/ref/sessionOne-Classes.dll
