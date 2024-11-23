@@ -13,7 +13,7 @@ namespace SessionOne
     // {
 
     // }
-    public class Person
+    public class Person2
     {
         public int Id;
         public string FirstName;
@@ -25,11 +25,5 @@ namespace SessionOne
         // public Person(int id, string firstName){}
         // public Person(int id, string firstName, string lastName){}
         // public Person(int id, DateTime dateTime){}
-
-        //WE CAN SIMPLY INITIALIZE A PERSON CONSTRUCTOR LIKE THIS WITHOUT DECLARING ANY CONSTRUCTOR
-        var person = new Person{
-            Id = 2,
-            FirstName = "firstName",
-        };
     }
 }
