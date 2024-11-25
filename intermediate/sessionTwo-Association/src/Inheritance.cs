@@ -3,6 +3,7 @@ namespace SessionTwo
     /****************************************************************************************************************************
         ************************** What is Inheritance?
             Inheritance is simply a kind of relationship between two classes that allows one to inherit code from the other.
+             * Also known as, Is a relationship
 
         ************************** What are the benefits?
             1) CODE RE-USE
