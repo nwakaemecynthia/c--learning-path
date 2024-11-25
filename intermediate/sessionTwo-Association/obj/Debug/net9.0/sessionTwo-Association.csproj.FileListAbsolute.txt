@@ -1,0 +1,15 @@
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/bin/Debug/net9.0/sessionTwo-Association
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/bin/Debug/net9.0/sessionTwo-Association.deps.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/bin/Debug/net9.0/sessionTwo-Association.runtimeconfig.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/bin/Debug/net9.0/sessionTwo-Association.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/bin/Debug/net9.0/sessionTwo-Association.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.AssemblyInfoInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.AssemblyInfo.cs
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.csproj.CoreCompileInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.sourcelink.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/refint/sessionTwo-Association.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/sessionTwo-Association.genruntimeconfig.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwo-Association/obj/Debug/net9.0/ref/sessionTwo-Association.dll
