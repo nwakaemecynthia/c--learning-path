@@ -1,0 +1,15 @@
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/bin/Debug/net9.0/sessionTwob-Inheritance
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/bin/Debug/net9.0/sessionTwob-Inheritance.deps.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/bin/Debug/net9.0/sessionTwob-Inheritance.runtimeconfig.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/bin/Debug/net9.0/sessionTwob-Inheritance.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/bin/Debug/net9.0/sessionTwob-Inheritance.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.AssemblyInfoInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.AssemblyInfo.cs
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.csproj.CoreCompileInputs.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.sourcelink.json
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/refint/sessionTwob-Inheritance.dll
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.pdb
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/sessionTwob-Inheritance.genruntimeconfig.cache
+/Users/cynthianwakaeme/Public/Learning/c#/intermediate/sessionTwob-Inheritance/obj/Debug/net9.0/ref/sessionTwob-Inheritance.dll
